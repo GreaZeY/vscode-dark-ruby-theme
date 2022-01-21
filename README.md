@@ -1,7 +1,7 @@
 
 # Dark Ruby
 
-![screenshot]()
+![screenshot](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/mQmjHU104LfDXpWIZwF0Et03bkw1/40u6u56l-default.jpeg)
 
 ## What's in the folder
 
